@@ -1,3 +1,83 @@
 1. Write a program to print all the LEADERS in the array. An element is leader if it is greater than all the elements to its right side. And the rightmost element is always a leader. For example int the array {16, 19, 4, 3, 8, 3}, leaders are 19, 8 and 3?
 
+
+
+
+
 2. Given an array arr[] of integers, find out the difference between any two elements such that larger element appears after the smaller number in arr[]. Examples: If array is [2, 3, 10, 6, 4, 8, 1] then returned value should be 8 (Diff between 10 and 2). If array is [ 7, 9, 5, 6, 3, 2 ] then returned value should be 2 (Diff between 7 and 9)
+
+
+
+
+
+3. Longest prefix which is also suffix
+Given a string s, find length of the longest prefix which is also suffix. The prefix and suffix should not overlap.
+
+Examples:
+
+Input : aabcdaabc
+Output : 4
+The string "aabc" is the longest
+prefix which is also suffix.
+
+Input : abcab
+Output : 2
+
+Input : aaaa
+Output : 2
+
+
+
+
+
+
+4.Find the number closest to n and divisible by m
+Given two integers n and m. The problem is to find the number closest to n and divisible by m. If there are more than one such number, then output the one having maximum absolute value. If n is completely divisible by m, then output n only. Time complexity of O(1) is required.
+
+
+
+
+
+
+5.Given a string consisting of only 0, 1, A, B, C where
+A = AND
+B = OR
+C = XOR
+Calculate the value of the string assuming no order of precedence and evaluation is done from left to right.
+
+Constraints – The length of string will be odd. It will always be a valid string.
+
+Input : 1A0B1
+Output : 1
+1 AND 0 OR 1 = 1
+
+Input : 1C1B1B0A0
+Output : 0
+
+
+
+
+
+6. Write a program to find out total marks obtained by a student if the student gets 3 marks for the correct answer and -1 for the wrong answer?
+
+
+
+7. You’re given a function –
+
+char *CompressString(char* str);
+
+The function accepts a string as an argument that may contain repetitive characters. Implement the function to modify and return the input string, such that each character once, along with the count of consecutive occurrence. Do not append count if the character occurs only once.
+
+Note – 
+
+The string will only contain lowercase English Alphabets
+If you have to manipulate the input string in place you cant use another string
+Assumption – 
+
+No character will occur consecutively more than 9 times.
+
+Example – 
+
+input – aaaaabbbccccccccdaa
+
+OutPut – a4b2c7da1
