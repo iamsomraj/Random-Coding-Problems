@@ -81,3 +81,34 @@ Example –
 input – aaaaabbbccccccccdaa
 
 OutPut – a4b2c7da1
+
+8. You’re given a function,
+
+char * ConvertToPalindrome(char* str)
+
+The function accepts a string str, implement the function to find and return the minimum characters required to append at the end of str to make it a palindrome
+
+Assumptions – 
+
+The string will only contain lowercase English Alphabets
+
+Note – 
+
+If string is already a palindrome then return NULL
+You have to find the minimum characters required to append at the end of the string to make it a palindrome
+Example –
+
+Input – 
+
+abcdc
+
+Output –
+
+ba
+
+9. LCM of 3 numbers
+
+Sum of Odd Factors
+Perfect Squares
+Number of possible Triangles in the given range
+Pattern Printing(print in form of X, Squares, Right angle Triangle)
