@@ -1,6 +1,6 @@
 # Random Coding Problems
 
-This repository contains different type of coding problems and their solutions (Well Almost) . These problems are mostly basic, but it helped me to be on track.
+This repository contains different type of coding problems and their solutions (Well Almost) . These problems are mostly basic, but it helped me to get my skills back.
 
 ## Developer
 
