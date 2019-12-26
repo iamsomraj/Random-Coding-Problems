@@ -108,7 +108,10 @@ ba
 
 9. LCM of 3 numbers
 
-Sum of Odd Factors
-Perfect Squares
-Number of possible Triangles in the given range
+10. Sum of Odd Factors
+
+11. Perfect Squares
+
+12. Number of possible Triangles in the given range: 
+
 Pattern Printing(print in form of X, Squares, Right angle Triangle)
