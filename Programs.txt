@@ -116,6 +116,4 @@ ba
 
 13. Decimal to binary and reverse:
 
-14. Pattern Printing(print in form of X, Squares, Right angle Triangle)
-
-15. Making Every first and last letter of a word in a string to uppercase.
+14. Making Every first and last letter of a word in a string to uppercase.
